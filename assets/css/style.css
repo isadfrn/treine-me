@@ -111,3 +111,43 @@ footer {
   position: absolute;
   right: 0;
 }
+
+@media (min-width: 769px) {
+  nav {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 6rem;
+  }
+
+  nav ul {
+    display: flex;
+  }
+
+  nav ul li {
+    padding: 0.2rem 0 0.2rem 2rem;
+  }
+
+  main {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  main header {
+    width: 50%;
+  }
+
+  main header h1 {
+    padding: 2rem 6rem;
+  }
+
+  main header p {
+    padding: 0 6rem;
+  }
+
+  main img {
+    max-width: 80%;
+    padding: 0 6rem;
+  }
+}
