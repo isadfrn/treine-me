@@ -17,6 +17,8 @@
 
 This is a fully responsive landing page of a gym. It's part of [Rocketseat's Explorer Bootcamp](https://www.rocketseat.com.br/explorer).
 
+![A fitness webpage with an image of a girl jumping a rope](./assets/img/demo.png)
+
 ## Run
 
 Install [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), right click on `index.html` file and then click on `Open with Live Server`.
