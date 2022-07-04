@@ -6,8 +6,8 @@
 
 ## Resources
 
-- [HTML](https://www.latex-project.org/)
-- [CSS](https://github.com/liantze/AltaCV)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## Content language
 
@@ -15,9 +15,9 @@
 
 ## About
 
-This is a fully responsive landing page of a gym. It's part of [Rocketseat's Explorer Bootcamp](https://www.rocketseat.com.br/explorer).
+A fully responsive landing page of a gym. It's part of [Rocketseat's Explorer Bootcamp](https://www.rocketseat.com.br/explorer).
 
-![A fitness webpage with an image of a girl jumping a rope](./assets/img/demo.png)
+![A webpage with an image of a girl jumping a rope](./assets/img/demo.png)
 
 ## Run
 
