@@ -1,8 +1,8 @@
 # treine.me
 
-![Languages used](https://img.shields.io/github/languages/count/isadfrn/treineme?style=flat-square)
-![Repository size](https://img.shields.io/github/repo-size/isadfrn/treineme?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/isadfrn/treineme?style=flat-square)
+![Languages used](https://img.shields.io/github/languages/count/isadfrn/treine-me?style=flat-square)
+![Repository size](https://img.shields.io/github/repo-size/isadfrn/treine-me?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/isadfrn/treine-me?style=flat-square)
 
 ## Resources
 
